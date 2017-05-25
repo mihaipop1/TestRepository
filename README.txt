@@ -11,14 +11,4 @@ Feature2
 Feature2 changes
 
 
-asdfasdf
-asdf
-asdf
-asd
-fa
-sdf
-asd
-fa
-df
-a
-asdf
+Modificare
